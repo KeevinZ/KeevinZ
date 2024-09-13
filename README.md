@@ -15,18 +15,16 @@
 - 📘 Estudando **Automatizão de testes em sites** e **Front-End** para ampliar minhas habilidades.
 - 🎯 Focado em aprender mais sobre **Full Stack**.
 
-### Projetos Interessantes 💡
-Aqui estão alguns dos projetos que estou trabalhando ou que já concluí:
-
-- 🌐 **[Nome do Projeto 1](link-do-projeto)**: Uma breve descrição do que o projeto faz.
-- 📱 **[Nome do Projeto 2](link-do-projeto)**: Outra breve descrição do projeto.
-- 🤖 **[Nome do Projeto 3](link-do-projeto)**: Alguma coisa legal que você está construindo!
-
 ### Vamos Conectar? 🌎
 - [![LinkedIn](https://img.shields.io/badge/-Kevin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kevin-davi-87821523b) 
 
 ### Minhas Estatísticas 📊
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?TechUsopp=TechUsopp&show_icons=true&theme=dracula)
+![TechUsopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechUsopp&showicons=true&theme=gruvbox&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TechUsopp&layout=compact&theme=dracula)
+
+![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=TechUsopp&showtheme=dracula)
+
 
 **Obrigado por visitar meu perfil!** ✨ Vamos juntos explorar o universo da programação e tecnologia! 🚀
