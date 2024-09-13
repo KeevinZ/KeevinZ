@@ -17,7 +17,8 @@
 
 ### Vamos Conectar? 🌎
 - [![LinkedIn](https://img.shields.io/badge/-Kevin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kevin-davi-87821523b) 
-
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/okevin.gg)
+  
 ### Minhas Estatísticas 📊
 
 ![TechUsopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechUsopp&showicons=true&theme=gruvbox&count_private=true)
