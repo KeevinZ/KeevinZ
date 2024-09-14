@@ -16,7 +16,7 @@
 - 🎯 Focado em aprender mais sobre **Full Stack**.
 
 ### Vamos Conectar? 🌎
-- [![LinkedIn](https://img.shields.io/badge/-Kevin-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/kevin-davi-87821523b/)) 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-davi-87821523b)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/okevin.gg)
   
 ### Minhas Estatísticas 📊
