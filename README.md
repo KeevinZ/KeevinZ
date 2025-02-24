@@ -10,11 +10,11 @@
   
 ### Minhas Estatísticas 📊
 
-![TechUsopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechUsopp&showicons=true&theme=gruvbox&count_private=true)
+![KeevinZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeevinZ&showicons=true&theme=gruvbox&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TechUsopp&layout=compact&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KeevinZ&layout=compact&theme=dracula)
 
-![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=TechUsopp&showtheme=dracula)
+![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=KeevinZ&showtheme=dracula)
 
 
 **Obrigado por visitar meu perfil!** ✨ Vamos juntos explorar o universo da programação e tecnologia! 🚀
