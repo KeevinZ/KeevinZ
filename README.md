@@ -9,7 +9,24 @@
 <p align="center">
   🚀 Cursando Programação |🎓 Aspirante a Front‑end/Full‑stack |🚀 Buscando sempre aprender e evoluir no universo da tecnologia
 </p>
+###
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img
+    alt="GitHub Breakout – contributions as a game"
+    src="images/breakout-light.svg"
+  />
+</picture>
+
+###
 ## Sobre Mim
 ✨ Criando pequenos bugs desde 2024  
 📚 Atualmente me aprofundando em Front‑end com JavaScript e React  
