@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Gerar SVGs do Breakout
-        uses: cyprieng/github-breakout-action@v1
+        uses: cyprieng/github-breakout-action@main
         with:
           github_username: ${{ github.repository_owner }}
 
