@@ -2,8 +2,8 @@ name: Gerar Pac‑Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # roda uma vez por dia
-  workflow_dispatch:           # permite execução manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,13 +15,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Gerar Pac‑Man contribution graph
-        uses: abozanona/[email protected]
+      - name: Gerar Pac‑Man graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Deploy SVG no branch output
-        uses: crazy-max/[email protected]
+      - name: Deploy SVG para branch output
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
