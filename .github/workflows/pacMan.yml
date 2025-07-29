@@ -1,0 +1,39 @@
+name: GitHub Pac‑Man Contribution Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+  workflow_dispatch:       # permite rodar manualmente
+
+jobs:
+  run-pacman:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar SVG do Pac‑Man
+        uses: abozanona/github-contribution-graph-pacman@v1
+        with:
+          output: svg
+
+      - name: Mover SVG para pasta images
+        run: |
+          mkdir -p images
+          mv pacman.svg images/pacman.svg
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit e Push
+        run: |
+          git add images/pacman.svg
+          git commit -m "chore: atualizar Pac‑Man SVG" || echo "Sem mudanças"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
